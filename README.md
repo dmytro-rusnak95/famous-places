@@ -19,7 +19,7 @@
 ## 3️⃣ Клодзько: Середньовічна краса
 Зануртесь у магічну атмосферу середньовічного містечка Клодзько. Відвідайте вулички, де кам'яні будинки заслуговують на увагу, та роздивіться Клодзьку фортецю, що зберегла свою величність протягом століть.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/2014_Most_gotycki_i_ko%C5%9Bci%C3%B3%C5%82_MBR_w_K%C5%82odzku.jpg" width="50%"><img src="https://mynaszlaku.pl/wp-content/uploads/2021/11/twierdza-klodzko-0028.jpg" width="50%">
+<img src="https://zaparatemprzezswiat.pl/wp-content/uploads/2016/05/IMG_4240-752x440.jpg" width="50%"><img src="https://mynaszlaku.pl/wp-content/uploads/2021/11/twierdza-klodzko-0028.jpg" width="50%">
 
 **Координати:** 50.431844, 16.653165
 
